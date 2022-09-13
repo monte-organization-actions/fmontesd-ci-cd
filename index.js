@@ -1,5 +1,5 @@
 function print() {
-  return 'Hello Fernando Montes!!'
+  return 'Hello Word!!'
 }
 
 module.exports = {
